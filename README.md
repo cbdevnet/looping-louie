@@ -23,3 +23,8 @@ All these improvements are backwards-compatible, meaning it is still possible to
 
 * Hardware: [@Indidev](http://github.com/Indidev)
 * Firmware: [@cbdev](http://github.com/cbdevnet) 
+
+# Images
+* [Complete Assembly](http://fabianstumpf.de/static/louie/complete.jpg)
+* [Paddle Assembly](http://fabianstumpf.de/static/louie/paddle-top.jpg)
+* [Base Assembly Bottom](http://fabianstumpf.de/static/louie/base-btm.jpg)
