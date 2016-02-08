@@ -7,7 +7,7 @@ It consists of a central rotating pillar with rotating arm attached, which lets 
 Players try to knock the plane into the air with paddles before it hits their base, costing them lives (plastic coins).
 Though mechanically pretty simple, the game still contains small parts that get lost frequently (mainly, the plastic coins).
 
-@Indidev and me wanted to make the game more exciting, portable and just all-around cooler by integrating microcontrollers
+We wanted to make the game more exciting, portable and just all-around cooler by integrating microcontrollers
 into the base and paddles, making motor speed and lighting cue variation possible, as well as counting your strikes easier.
 
 The central motor assembly has been modified to include a MOSFET motor driver controlled by PWM from an ATmega8 microcontroller,
@@ -21,5 +21,5 @@ All these improvements are backwards-compatible, meaning it is still possible to
 
 # Authors
 
-Hardware: @Indidev
-Firmware: @cbdev 
+* Hardware: [@Indidev](http://github.com/Indidev)
+* Firmware: [@cbdev](http://github.com/cbdevnet) 
